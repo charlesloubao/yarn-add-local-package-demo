@@ -1,0 +1,11 @@
+{
+  "private": "true",
+  "name": "mypackage1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mypackage2": "*",
+    "mypackage3": "*"
+  }
+}

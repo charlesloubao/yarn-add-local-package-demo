@@ -1,0 +1,12 @@
+{
+  "private":"true",
+  "name": "yarn_add_local_package_demo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node packages/mypackage1"
+  },
+  "workspaces":[
+    "packages/*"
+  ]
+}
