@@ -1,5 +1,5 @@
 # Yarn workspace package import demo
 
 ```
-npm start
+yarn run start
 ```
